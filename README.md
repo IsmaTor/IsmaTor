@@ -4,4 +4,4 @@ Desarrollador Java en la parte de BackEnd con Spring Boot Framework. Mi principa
 Puedes seguirme en el siguiente link 😊
 
 - 💼 My personal [Linkedin](https://www.linkedin.com/in/ismael-tortosa-de-la-iglesia-14774340/)
-- 🚧 Actualmente estoy trabajando en mi proyecto personal en mi repositorio "DICE-GAME" en la carpeta "4JWT-ENGLISH-inConstruction" os animo a jugar. Es un proyecto que no está cerrado, siempre que puedo lo actualizo y siempre acojo muy bien toda clase de criticas o consejos. 
+- 🚧 Actualmente estoy trabajando en mi proyecto personal en mi repositorio "GlucoseRegisterApp", una app para Android que implementa 2 lenguajes Java + Kotlin. Esta aplicación ayuda a que personas con glucosa puedan llevar un registro y un historial de sus mediciones. Siempre acojo muy bien toda clase de criticas o consejos. 
